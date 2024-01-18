@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Convite para Jogar Call of Duty</title>
+</head>
+<body>
+
+    <h1>Amigos, Vamos Jogar Call of Duty?</h1>
+
+    <p>Olá queridos amigos!</p>
+    <p>Vamos reunir a equipe para uma sessão épica de Call of Duty? Estou animado para passar um tempo incrível com vocês.</p>
+
+    <img src="https://example.com/imagem_cod_1.jpg" alt="Imagem Call of Duty 1" width="400" height="200">
+    <img src="https://example.com/imagem_cod_2.jpg" alt="Imagem Call of Duty 2" width="400" height="200">
+
+    <p>Se você está pronto para a ação, clique no link abaixo para se juntar à diversão:</p>
+
+    <a href="https://example.com/pagina_de_jogo.html">
+        <img src="https://example.com/botao_jogar.png" alt="Botão Jogar" width="150" height="50">
+    </a>
+
+    <p>Mal posso esperar para ver todos vocês no campo de batalha!</p>
+
+</body>
+</html>
